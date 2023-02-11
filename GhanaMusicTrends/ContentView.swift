@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  GhanaMusicTrends
 //
-//  Created by David Baffour on 2/11/23.
 //
 
 import SwiftUI
